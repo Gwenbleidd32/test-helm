@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  lizzoslunch-chart:
+  - apiVersion: v2
+    created: "2024-10-20T13:47:16.5350208-07:00"
+    description: A simple Helm chart for Kubernetes
+    digest: b4a40fd39173be480d51e2231336913e1fca36c77174f4ed12de2772d971dd7a
+    maintainers:
+    - email: beron.bantonburns@gmail.com
+      name: Beron Banton II
+    name: lizzoslunch-chart
+    urls:
+    - https://github.com/Gwenbleidd32/test-helm/lizzoslunch-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-10-20T13:47:16.5340008-07:00"
